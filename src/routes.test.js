@@ -2,7 +2,7 @@ import { render, screen } from "@testing-library/react";
 import App from "./paginas/Principal/App";
 import { BrowserRouter, MemoryRouter, Route, Routes } from "react-router-dom";
 import Cartoes from "./componentes/Cartoes";
-import AppRoutes from "./routes";
+import AppRoutes from "./routes.js";
 
 describe("Rotas", () => {
   test("Deve renderizar a rota principal", () => {
