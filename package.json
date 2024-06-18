@@ -22,6 +22,9 @@
     "eject": "react-scripts eject"
   },
   "jest": {
+    "moduleNameMapper": {
+      "^axios$": "axios/dist/node/axios.cjs"
+    },
     "coverageThreshold": {
       "global": {
         "branchs": 80,
