@@ -1,7 +1,7 @@
 import { render, screen } from "@testing-library/react";
 import { BrowserRouter } from "react-router-dom";
 import Menu from "./index";
-import AppRoutes from "../../routes";
+import AppRoutes from "../../routes.js";
 import userEvent from "@testing-library/user-event";
 
 describe("Deve renderizar", () => {
