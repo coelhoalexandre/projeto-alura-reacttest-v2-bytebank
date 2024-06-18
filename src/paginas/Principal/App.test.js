@@ -2,7 +2,7 @@ import { render, screen } from "@testing-library/react";
 import App from "./App";
 import userEvent from "@testing-library/user-event";
 import { BrowserRouter } from "react-router-dom";
-import AppRoutes from "../../routes.js";
+import AppRoutes from "../../routes";
 
 describe("Component <App />", () => {
   test("Deve permitir adicionar uma transacao em Extrato", () => {

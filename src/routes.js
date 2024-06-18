@@ -1,9 +1,9 @@
-import { Route, Routes } from 'react-router-dom';
-import Cartoes from './componentes/Cartoes';
-import Investimentos from './componentes/Investimentos';
-import Servicos from './componentes/Servicos';
-import Pagina404 from './paginas/Pagina404';
-import App from './paginas/Principal/App';
+import { Route, Routes } from "react-router-dom";
+import Cartoes from "./componentes/Cartoes";
+import Investimentos from "./componentes/Investimentos";
+import Servicos from "./componentes/Servicos";
+import Pagina404 from "./paginas/Pagina404";
+import App from "./paginas/Principal/App";
 
 export default function AppRoutes() {
   return (
