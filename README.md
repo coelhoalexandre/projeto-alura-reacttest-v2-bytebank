@@ -15,17 +15,16 @@
 
 ## Sobre o Projeto
 
-Projeto do curso [React: escreva testes end to end com Cypress](https://cursos.alura.com.br/course/react-escreva-testes-end-to-end-cypress), instruido por [**Neilton Seguins**](https://github.com/NeiltonSeguins).
+Projeto do curso [React: testes de integração e mocks no Front-end](https://cursos.alura.com.br/course/react-testes-integracao-mocks-front-end), instruido por [**Neilton Seguins**](https://github.com/NeiltonSeguins).
 
 ## Objetivos do Projeto
 
-- Conhecer o Cypress e as vantages de utilizá-lo para testar suas aplicações Front-end;
-- Saber como instalar e utilizar o Cypress em seus projetos;
-- Escrever testes de ponta a ponta em suas aplicações React;
-- Criar comandos personalizados no Cypress;
-- Entender como testar formulários e múltiplas páginas com o Cypress;
-- Entender o que são as jornadas de usuário ao escrever testes;
-- Realizar seus testes em diferentes navegadores e dispositivos móveis.
+- Entender como testar as rotas de sua aplicação;
+- Saber como escrever testes de integração para seus componente React;
+- Testar hooks customizados em suas aplicações React;
+- Realizar mocks para requisições e chamadas a uma API;
+- Descubrir o que é relatório de cobertura de testes e saiba como ler suas principais informações;
+- Criar uma action no Github e proteja seu repositório de códigos não testados.
 
 ## Tecnolgias Utilizadas
 
@@ -33,7 +32,7 @@ Projeto do curso [React: escreva testes end to end com Cypress](https://cursos.a
 2. CSS
 3. JS
 4. React
-5. Cypress
+5. Jest
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
@@ -51,3 +50,4 @@ Logo abaixo estão os meus principais links, fique a vontade de acessar o que ma
 <a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
 <a href = "https://cursos.alura.com.br/user/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Alura-0747a6?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura Badge"></a>
 <a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
+
