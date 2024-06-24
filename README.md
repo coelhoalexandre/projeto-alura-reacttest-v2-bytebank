@@ -15,16 +15,17 @@
 
 ## Sobre o Projeto
 
-Projeto do curso [React: testes de integração e mocks no Front-end](https://cursos.alura.com.br/course/react-testes-integracao-mocks-front-end), instruido por [**Neilton Seguins**](https://github.com/NeiltonSeguins).
+Projeto do curso [React: escreva testes end to end com Cypress](https://cursos.alura.com.br/course/react-escreva-testes-end-to-end-cypress), instruido por [**Neilton Seguins**](https://github.com/NeiltonSeguins).
 
 ## Objetivos do Projeto
 
-- Entender como testar as rotas de sua aplicação;
-- Saber como escrever testes de integração para seus componente React;
-- Testar hooks customizados em suas aplicações React;
-- Realizar mocks para requisições e chamadas a uma API;
-- Descubrir o que é relatório de cobertura de testes e saiba como ler suas principais informações;
-- Criar uma action no Github e proteja seu repositório de códigos não testados.
+- Conhecer o Cypress e as vantages de utilizá-lo para testar suas aplicações Front-end;
+- Saber como instalar e utilizar o Cypress em seus projetos;
+- Escrever testes de ponta a ponta em suas aplicações React;
+- Criar comandos personalizados no Cypress;
+- Entender como testar formulários e múltiplas páginas com o Cypress;
+- Entender o que são as jornadas de usuário ao escrever testes;
+- Realizar seus testes em diferentes navegadores e dispositivos móveis.
 
 ## Tecnolgias Utilizadas
 
@@ -32,7 +33,7 @@ Projeto do curso [React: testes de integração e mocks no Front-end](https://cu
 2. CSS
 3. JS
 4. React
-5. Jest
+5. Cypress
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
